@@ -1,4 +1,5 @@
 # kc-house-valuation-app
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://kc-house-valuation-app.streamlit.app)
 
 # 🏡 ValuEdge™ AI — King County Real Estate Valuation & Investment Intelligence
 
